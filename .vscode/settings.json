@@ -1,0 +1,30 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "159.223.96.242",
+      "port": 3306,
+      "driver": "MySQL",
+      "database": "padel_628",
+      "username": "bduser",
+      "name": "DIGITALOCEAN-PADEL-QAS | BD",
+      "password": "BD_P@d3l"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "LOCALHOST",
+      "username": "root",
+      "password": "back",
+      "database": "adonis"
+    }
+  ]
+}
